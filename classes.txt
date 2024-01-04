@@ -1,0 +1,51 @@
+1. *Parties Involved:*
+    - Full legal names and addresses of the contracting parties.
+    - Clearly defined roles or designations of each party within the contract, specifying their responsibilities and obligations.
+2. *Definition and Interpretation of Terms:*
+    - Precise definitions and interpretations of key terms and phrases used throughout the contract to avoid ambiguity and misunderstandings.
+3. *Jurisdiction:*
+    - Specification of the legal jurisdiction or governing law under which the contract's validity, interpretation, and enforceability will be determined.
+4. *Duration and Territory:*
+    - Explicit delineation of the contract's duration, outlining the start and end dates during which the contract is in effect.
+    - Definition of the geographic territory or scope within which the contract applies.
+5. *Nature of Consideration:*
+    - Clear articulation of the nature of consideration, whether it involves monetary payments, services rendered, goods exchanged, rights granted, or other forms of valuable exchange.
+6. *Obligations Associated with Each Role:*
+    - Comprehensive description of the obligations and responsibilities associated with each party's role in the contract.
+    - Inclusion of terms and conditions related to various aspects such as warranties, delivery, liability, rejection, termination, and accounting provisions.
+
+
+pymupdf doesnt handle tables in contracts
+
+1)parties invloved, 2)nature of consideration, 3) obligations 4) definition of terms 5) jurdisdiction 6) territory and duration
+
+Nature of consideration is broadly split into 1) nature of termination 2) 
+2) disclaimers(synonyms) 3)limitations 4)confidentiality 5)miscellaneous 6)recitals 7)Notices 8)provisions 9)Terms and conditions 10)correspondence 11) Severability
+
+
+Obligations : 1) indemnity 2)remedy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
