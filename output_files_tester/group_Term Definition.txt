@@ -1,0 +1,42 @@
+Unnamed: 0	Text	Class
+3	"1. DEFINITIONS.
+"	Term Definition
+5	"(b) ""CO-BRANDED SITE"" means the web-site accessible through
+Domain Name, for the Services implemented by i-Escrow. The
+homepage of this web-site will visibly display both
+2TheMart Marks and i-Escrow Marks.
+"	Term Definition
+7	"(d) ""DOMAIN NAME"" means www.iescrow.com/2TheMart.
+"	Term Definition
+8	"(e) ""ESCROW SERVICES"" means services for auction
+sellers and high bidders whereby an agent holds a
+buyer's money in trust until the buyer approves the
+applicable item that was physically delivered, at
+which time the agent releases the buyer's money
+to seller, after subtracting the escrow fees.
+"	Term Definition
+10	"(g) ""LAUNCH DATE"" means the first date on which the
+Co-Branded Site is pointed to in all references to
+i-Escrow from 2TheMart auction site, and the
+Information Transfer Mechanism is publicly
+deployed (post-beta).
+"	Term Definition
+13	"(j) ""SHADOW SITE"" means the site where Co-Branded Site
+is made available for 2TheMart's testing of the
+Information Transfer Mechanism prior to being
+made publicly available.
+"	Term Definition
+14	"(k) ""TRANSACTION"" means a transaction utilizing the
+Services that actually closes and that was
+initiated by a Transaction Inquiry from a Customer.
+"	Term Definition
+70	"11. CONFIDENTIAL INFORMATION.  A party's ""Confidential Information""
+is defined as any confidential or proprietary
+information of a party which is disclosed to
+the other party in a writing marked
+confidential or, if disclosed orally, is
+identified as confidential at the time of
+disclosure and is subsequently reduced to a
+writing marked confidential and delivered to
+the
+"	Term Definition
